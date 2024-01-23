@@ -24,7 +24,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const str = `◉— *𝐁𝐨𝐭 𝐁𝐚𝐛𝐲* —◉
 
   ➤ *Hola,* ${taguser}
-
+  ➤ https://Wa.me/+5492945405712
  _*< TUS ESTADÍSTICAS />*_
 
  ➤ *Nivel:* ${level}
